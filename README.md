@@ -16,6 +16,7 @@
 ### 2 Start Hardhat
 - `cd ./hardhat`
 - `npm run node` start the local blockchain in one terminal
+- `npm run deploy`
 
 ### 3 Install Svelte Frontend
 - (new Terminal window)
